@@ -11,6 +11,8 @@ public class Main {
         } catch (PerimetrException e) {
             e.printStackTrace();
         }
+        System.out.println();
+        System.out.println();
 
 
     }
